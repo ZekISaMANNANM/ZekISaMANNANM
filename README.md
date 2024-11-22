@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi! I'm Zek(etc), and this is my profile!
 
 <!--
 **ZekISaMANNANM/ZekISaMANNANM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
